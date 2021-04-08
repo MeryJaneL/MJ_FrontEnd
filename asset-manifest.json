@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MJ_FrontEnd/static/css/main.dbb251c4.chunk.css",
+    "main.js": "/MJ_FrontEnd/static/js/main.0e5ab28c.chunk.js",
+    "main.js.map": "/MJ_FrontEnd/static/js/main.0e5ab28c.chunk.js.map",
+    "runtime-main.js": "/MJ_FrontEnd/static/js/runtime-main.440654a6.js",
+    "runtime-main.js.map": "/MJ_FrontEnd/static/js/runtime-main.440654a6.js.map",
+    "static/js/2.3f3e5287.chunk.js": "/MJ_FrontEnd/static/js/2.3f3e5287.chunk.js",
+    "static/js/2.3f3e5287.chunk.js.map": "/MJ_FrontEnd/static/js/2.3f3e5287.chunk.js.map",
+    "static/js/3.ebde2d45.chunk.js": "/MJ_FrontEnd/static/js/3.ebde2d45.chunk.js",
+    "static/js/3.ebde2d45.chunk.js.map": "/MJ_FrontEnd/static/js/3.ebde2d45.chunk.js.map",
+    "index.html": "/MJ_FrontEnd/index.html",
+    "static/css/main.dbb251c4.chunk.css.map": "/MJ_FrontEnd/static/css/main.dbb251c4.chunk.css.map",
+    "static/js/2.3f3e5287.chunk.js.LICENSE.txt": "/MJ_FrontEnd/static/js/2.3f3e5287.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/MJ_FrontEnd/static/media/YDSapphIIM.81852711.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.440654a6.js",
+    "static/js/2.3f3e5287.chunk.js",
+    "static/css/main.dbb251c4.chunk.css",
+    "static/js/main.0e5ab28c.chunk.js"
+  ]
+}
